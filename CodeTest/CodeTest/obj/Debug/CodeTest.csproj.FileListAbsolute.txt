@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\CodeTest\CodeTest\CodeTest\bin\Debug\CodeTest.exe.config
+C:\Users\User\Documents\GitHub\CodeTest\CodeTest\CodeTest\bin\Debug\CodeTest.exe
+C:\Users\User\Documents\GitHub\CodeTest\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
+C:\Users\User\Documents\GitHub\CodeTest\CodeTest\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\CodeTest\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+C:\Users\User\Documents\GitHub\CodeTest\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
